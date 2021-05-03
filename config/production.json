@@ -1,3 +1,0 @@
-{
-  "mongoURI":"mongodb+srv://sumit:12345@devconnector.1357a.mongodb.net/NhConnect?retryWrites=true&w=majority", "jwtSecret":"mysecrettoken", "githubClientId":"24b1ddbc1afc06dde20c", "githubToken":"db9db834b75da1036dfe30947c1d1f7706b30f86"
-}
